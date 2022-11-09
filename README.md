@@ -6,6 +6,8 @@ This is an official pnpm starter turborepo.
 
 https://turbo.build/repo/docs/handbook/package-installation
 
+https://vercel.com/docs/concepts/monorepos/turborepo
+
 This turborepo uses [pnpm](https://pnpm.io) as a package manager. It includes the following packages/apps:
 
 ### Apps and Packages
